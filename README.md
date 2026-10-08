@@ -119,18 +119,3 @@ An interview preparation platform designed to help developers prepare for techni
 - 🌱 Always learning and improving
 
 ---
-
-## 📌 Currently Learning
-
-```text
-Advanced JavaScript
-        ↓
-React.js
-        ↓
-Node.js + Express.js
-        ↓
-REST APIs
-        ↓
-Redis + BullMQ
-        ↓
-System Design
